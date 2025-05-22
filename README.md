@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am a passionate developer with a strong foundation in computer science and a broad skill set in back-end development, database management, and front-end technologies. Currently pursuing my Master's in Computer Application, I have hands-on experience in data analysis and web development, with a keen interest in creating efficient, user-friendly solutions. I am driven by problem-solving challenges and am eager to contribute to a dynamic team where I can continue to grow and apply my diverse technical skills.
+ I'm Henis D’Costa, a dedicated software developer with a strong foundation in full-stack development. I have completed my Master’s 
+degree in Computer Applications from Indus University, following a Bachelor’s degree in Computer Applications from St. Xavier’s 
+College. I bring hands-on experience from my role as a Software Developer Trainee at Prudent Corporate Advisory Services Ltd. My 
+expertise spans front-end and back-end technologies, database design, and the development of dynamic web applications. I am 
+now seeking a challenging role where I can apply my skills to innovative projects and continue advancing my career in software 
+development.
 
 
 ## 🌐 Socials:
